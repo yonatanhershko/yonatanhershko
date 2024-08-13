@@ -1,5 +1,5 @@
 <h1 align="center">💻Welcome to my Github profile </h1>
-<h2> Yonatan Hershko | Fullstack developer </h2>
+<h2 align="center"> Yonatan Hershko | Fullstack developer </h2>
 <h3 align="left">🚀About Me</h3>
 <p> &nbsp &nbsp &nbsp I am motivated by complex challenges and find fulfillment in devising innovative solutions.
 </p>
@@ -28,7 +28,8 @@
 <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=express" alt="Express.js" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px;">
-<img src="https://skillicons.dev/icons?i=postgres" alt="Sql" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=php" alt="php" style="width: 50px; height: 50px;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" style="width: 50px; height: 50px;">
 </div>
 
 <h3>Additional Tools </h3>
