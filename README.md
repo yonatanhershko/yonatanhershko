@@ -37,10 +37,8 @@
 
 <div>
   <h3>📞 Contact me</h3>
-  <a href="https://www.linkedin.com/in/yonatan-hershko-022718255/" style="text-decoration: none; color: inherit;">
-    <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="display: inline-block;">
-  </a>
-  <a href="mailto:Yonher8@gmail.com" style="text-decoration: none; color: inherit;">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="display: inline-block;">
-  </a>
+  <a href="https://www.linkedin.com/in/yonatan-hershko-022718255/" style="text-decoration: none;"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:Yonher8@gmail.com" style="text-decoration: none;"><img alt="Gmail Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
+
+
