@@ -1,7 +1,7 @@
 <h1 align="center">💻Welcome to my Github profile </h1>
 <h2 align="center"> Yonatan Hershko | Fullstack developer </h2>
 <h3 align="left">🚀About Me</h3>
-<p> &nbsp &nbsp &nbsp I am motivated by complex challenges and find fulfillment in devising innovative solutions.
+<p>I am motivated by complex challenges and find fulfillment in devising innovative solutions.
 </p>
 
 <h3>🧑‍💻 Featured Project</h3>
