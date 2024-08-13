@@ -4,8 +4,10 @@
 <p> &nbsp &nbsp &nbsp I am motivated by complex challenges and find fulfillment in devising innovative solutions.
 </p>
 
-<h3>🧑‍💻 Top project</h3>
- 🏆 Trellife - a Trello like clone, project managment application (check it out 👉 https://trellife.onrender.com/)
+<h3>🧑‍💻 Featured Project</h3>
+ 🏆 Trellife - a task management application inspired
+  by Trello, featuring an integrated AI assistant to enhance productivity 
+ <p> (check it out 👉 https://trellife.onrender.com/)</p>
 
 <h3>🛠 Skills & Tools</h3>
 <h3>Frontend Skills </h3> 
@@ -28,7 +30,8 @@
 <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" style="width: 50px; height: 50px;">
 <img src="https://skillicons.dev/icons?i=postgres" alt="Sql" style="width: 50px; height: 50px;">
 </div>
-<h3>Extras </h3>
+
+<h3>Additional Tools </h3>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 <img alt="LinkedIn Badge" src="https://img.shields.io/badge/Redux-8d73bd?style=for-the-badge&logo=redux&logoColor=fff">
 <img alt="Postman Badge" src="https://img.shields.io/badge/postman-orange?style=for-the-badge&logo=postman&logoColor=fff">
@@ -36,7 +39,7 @@
 
 
 <div>
-  <h3>📞 Contact me</h3>
+  <h3>📞 Get in Touch</h3>
   <a href="https://www.linkedin.com/in/yonatan-hershko-022718255/" style="text-decoration: none;"><img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:Yonher8@gmail.com" style="text-decoration: none;"><img alt="Gmail Badge" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
