@@ -1,5 +1,6 @@
-<h1 align="center">💻Welcome to my Github profile </h1>
-<h2 align="center"> Yonatan Hershko | Fullstack developer </h2>
+<h1 align="center">Hi! I'm Yonatan Hershko 👋
+</h1>
+<h2 align="center"> Fullstack | Frontend developer </h2>
 <h3 align="left">🚀About Me</h3>
 <p>I am motivated by complex challenges and find fulfillment in devising innovative solutions.
 </p>
