@@ -1,13 +1,10 @@
 <h1 align="center">Hi! I'm Yonatan Hershko 👋</h1>
 <h2 align="center">Fullstack Developer</h2>
 
-<h3 align="left">🚀 About Me</h3>
+<h3 align="left">About Me</h3>
 <p>I am motivated by complex challenges and find fulfillment in devising innovative solutions.</p>
 
-<h3>🧑‍💻 Featured Projects</h3>
-
-<p>🏆 <strong>Trellife</strong> - A task management application inspired by Trello, featuring an integrated AI assistant to enhance productivity.</p>
-<p>Check it out 👉 <a href="https://trellife.onrender.com/" target="_blank">https://trellife.onrender.com/</a></p>
+<h3>🧑‍💻 Featured Project</h3>
 
 <p>⚡ <strong>Kubernetes + Docker Todo App</strong> - A full-stack Todo application deployed with Docker and Kubernetes, showcasing containerization and orchestration skills.</p>
 <p>Check it out 👉 <a href="https://frontend-polished-brook-6642.fly.dev" target="_blank">https://frontend-polished-brook-6642.fly.dev</a></p>
@@ -15,7 +12,7 @@
 <h3>Frontend Skills </h3> 
 <div>
  
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=yonatanhershko&show_icons=true&locale=en&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&border_color=150d24" alt="idan-sh" />
+
   <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" style="width: 50px; height: 50px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React Native" title="React Native" style="width: 50px; height: 50px;">
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue" title="Vue" style="width: 50px; height: 50px;">
