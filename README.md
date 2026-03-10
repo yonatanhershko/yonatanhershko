@@ -4,7 +4,10 @@
 <h3 align="left">About Me</h3>
 <p>I am motivated by complex challenges and find fulfillment in devising innovative solutions.</p>
 
-<h3>🧑‍💻 Featured Project</h3>
+<h3>🧑‍💻 Featured Projects</h3>
+
+<p>🏆 <strong>Trellife</strong> - A task management application inspired by Trello, featuring an integrated AI assistant to enhance productivity.</p>
+<p>Check it out 👉 <a href="https://trellife.onrender.com/" target="_blank">https://trellife.onrender.com/</a></p>
 
 <p>⚡ <strong>Kubernetes + Docker Todo App</strong> - A full-stack Todo application deployed with Docker and Kubernetes, showcasing containerization and orchestration skills.</p>
 <p>Check it out 👉 <a href="https://frontend-polished-brook-6642.fly.dev" target="_blank">https://frontend-polished-brook-6642.fly.dev</a></p>
